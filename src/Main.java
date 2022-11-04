@@ -28,5 +28,8 @@ public class Main {
 
         System.out.println("Testing Graph");
         new Graph().testGraph();
+
+         System.out.println("Testing Binary Search Tree");
+         new BinarySearchTree().testBinarySearchTree();
     }
 }
